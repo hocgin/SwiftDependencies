@@ -7,7 +7,7 @@ import PackageDescription
 /// .iOS(.v18), .macOS(.v15), .watchOS(.v11), .tvOS(.v18)
 /// .iOS(.v26), .macOS(.v26), .watchOS(.v26), .tvOS(.v26)
 let package = Package(
-    name: "Library",
+    name: "SwiftDependencies",
     defaultLocalization: "en",
     platforms: [
         .iOS(.v18),
